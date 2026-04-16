@@ -1,6 +1,4 @@
-{- 02 - Fornecidos três valores a, b e c, elaborar uma função que
-retorne quantos desses três valores são maiores que a média entre eles.
--}
+-- 02 - Fornecidos três valores a, b e c, elaborar uma função que retorne quantos desses três valores são maiores que a média entre eles.
 
 funcao :: Float -> Float -> Float -> IO ()
 funcao a b c
